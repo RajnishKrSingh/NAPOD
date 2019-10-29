@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/NAPOD/static/css/main.bc54a38f.chunk.css",
+    "main.js": "/NAPOD/static/js/main.bd513b1e.chunk.js",
+    "main.js.map": "/NAPOD/static/js/main.bd513b1e.chunk.js.map",
+    "runtime-main.js": "/NAPOD/static/js/runtime-main.b848e7ea.js",
+    "runtime-main.js.map": "/NAPOD/static/js/runtime-main.b848e7ea.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/NAPOD/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.ee158c2b.chunk.js": "/NAPOD/static/js/2.ee158c2b.chunk.js",
+    "static/js/2.ee158c2b.chunk.js.map": "/NAPOD/static/js/2.ee158c2b.chunk.js.map",
+    "index.html": "/NAPOD/index.html",
+    "precache-manifest.b0c6e3a21bfc96f433146a4b0446cea0.js": "/NAPOD/precache-manifest.b0c6e3a21bfc96f433146a4b0446cea0.js",
+    "service-worker.js": "/NAPOD/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/NAPOD/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.bc54a38f.chunk.css.map": "/NAPOD/static/css/main.bc54a38f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b848e7ea.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.ee158c2b.chunk.js",
+    "static/css/main.bc54a38f.chunk.css",
+    "static/js/main.bd513b1e.chunk.js"
+  ]
+}
