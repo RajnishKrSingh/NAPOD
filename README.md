@@ -12,6 +12,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+Lint is not just about style-checking.
+Many Lint tools do static code analysis. As such, they can detect errors in your code that would otherwise go undetected. That means you can screen your program for bugs before you run it.
+The first Lint program was for the C language; it detected things like divide by zero, variables being used before they are set, and calculations likely to overflow. As the language standard improved and compilers got better at detecting and reporting errors, the Lint program gradually became less important. Today there's a Lint program for Javascript that Douglas Crockford wrote, which is still important because Javascript is still a young language.
+Anyway, the point is that most of the coding style issues are more than likely warnings and not errors, because they are not going to cause your program to break. Things that will cause your program to break are classified as errors, not warnings.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
